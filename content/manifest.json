@@ -1,3 +1,58 @@
 {
-  "items": []
+  "items": [
+    {
+      "caption": "WHAT A CLASH! \ud83d\udd25 Blue spinner vs the crimson HAMMER \u2014 sparks, slams and a TWIST you won't believe! \ud83e\udd16\u26a1 #RobotCombat #BattleBots #RobotWars",
+      "file": "content/media/rc-2026-10-05-v1.mp4",
+      "ready": true,
+      "type": "video"
+    },
+    {
+      "caption": "The moment of impact! \ud83d\udca5 Who survives this?! \ud83e\udd16 #RobotCombat #BattleBots #RobotWars",
+      "file": "content/media/rc-2026-10-05-i1.jpg",
+      "ready": true,
+      "type": "image"
+    },
+    {
+      "caption": "Which weapon DOMINATES the arena? \u2699\ufe0f Full-body SPINNER vs \ud83d\udd28 Overhead HAMMER \u2014 drop your pick below! \ud83d\udc47 #RobotCombat #BattleBots #RobotWars",
+      "file": "",
+      "ready": true,
+      "type": "text"
+    },
+    {
+      "caption": "DRUM vs FLIPPER! \ud83c\udf00\ud83d\udc9a One gets LAUNCHED across the arena... then the comeback begins! \ud83e\udd16\ud83d\udd25 #RobotCombat #BattleBots #RobotWars",
+      "file": "content/media/rc-2026-10-05-v2.mp4",
+      "ready": true,
+      "type": "video"
+    },
+    {
+      "caption": "The hammer comes DOWN! \ud83d\udd28\ud83d\udca5 Total destruction! \ud83e\udd16 #RobotCombat #BattleBots #RobotWars",
+      "file": "content/media/rc-2026-10-05-i2.jpg",
+      "ready": true,
+      "type": "image"
+    },
+    {
+      "caption": "Hammer bot or Flipper bot \u2014 which one takes the arena TONIGHT? \ud83c\udfdf\ufe0f Comment below! \ud83d\udc47 #RobotCombat #BattleBots #RobotWars",
+      "file": "",
+      "ready": true,
+      "type": "text"
+    },
+    {
+      "caption": "LIFTER vs WEDGE! \ud83d\udda4\u2694\ufe0f A last-second SHOVE decides everything! \ud83e\udd16\u26a1 #RobotCombat #BattleBots #RobotWars",
+      "file": "content/media/rc-2026-10-05-v3.mp4",
+      "ready": true,
+      "type": "video"
+    },
+    {
+      "caption": "DEBRIS EVERYWHERE! \ud83c\udfc6 Only one bot walks out! \ud83e\udd16 #RobotCombat #BattleBots #RobotWars",
+      "file": "content/media/rc-2026-10-05-i3.jpg",
+      "ready": true,
+      "type": "image"
+    },
+    {
+      "caption": "Would YOU drive one of these 250-pound monsters? \ud83d\ude31 Comment YES or NO! \ud83d\udc47 #RobotCombat #BattleBots #RobotWars",
+      "file": "",
+      "ready": true,
+      "type": "text"
+    }
+  ]
 }
