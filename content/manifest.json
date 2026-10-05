@@ -19,10 +19,10 @@
       "type": "text"
     },
     {
-      "caption": "DRUM vs FLIPPER! \ud83c\udf00\ud83d\udc9a One gets LAUNCHED across the arena... then the comeback begins! \ud83e\udd16\ud83d\udd25 #RobotCombat #BattleBots #RobotWars",
-      "file": "content/media/rc-2026-10-05-v2.mp4",
-      "ready": true,
-      "type": "video"
+      "type": "video",
+      "file": "content/media/gemini-viper-vs-mauler-2026-10-05.mp4",
+      "caption": "VIPER STRIKE vs IRON MAULER! \ud83d\udd25 Crimson spinner meets the devastating flipper \u2014 WHO SURVIVES?! \ud83e\udd16 #RobotCombat #BattleBots #RobotWars",
+      "ready": true
     },
     {
       "caption": "The hammer comes DOWN! \ud83d\udd28\ud83d\udca5 Total destruction! \ud83e\udd16 #RobotCombat #BattleBots #RobotWars",
@@ -37,10 +37,10 @@
       "type": "text"
     },
     {
-      "caption": "LIFTER vs WEDGE! \ud83d\udda4\u2694\ufe0f A last-second SHOVE decides everything! \ud83e\udd16\u26a1 #RobotCombat #BattleBots #RobotWars",
-      "file": "content/media/rc-2026-10-05-v3.mp4",
-      "ready": true,
-      "type": "video"
+      "type": "video",
+      "file": "content/media/gemini-thunder-vs-sky-2026-10-05.mp4",
+      "caption": "THUNDER DRUM vs SKY HAMMER! \ud83c\udf00\ud83d\udd28 The drum CHEWS, the hammer CRUSHES \u2014 total arena WAR! \ud83e\udd16 #RobotCombat #BattleBots #RobotWars",
+      "ready": true
     },
     {
       "caption": "DEBRIS EVERYWHERE! \ud83c\udfc6 Only one bot walks out! \ud83e\udd16 #RobotCombat #BattleBots #RobotWars",
