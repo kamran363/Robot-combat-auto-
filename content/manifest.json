@@ -1,63 +1,39 @@
 {
   "items": [
     {
-      "caption": "MANDIBLE vs SIEGEBREAKER! \ud83d\udfe2\ud83d\udd25 The claw GRABS, the ram BREAKS FREE \u2014 then a CRUSH you have to see to believe! \ud83e\udd16\u26a1 #RobotCombat #BattleBots #RobotWars",
-      "file": "content/media/rc-2026-10-06-v1.mp4",
-      "ready": true,
-      "type": "video"
+      "type": "image",
+      "file": "content/media/rc-2026-10-07-i1.jpg",
+      "caption": "FLIPPED INTO ORBIT! 🛰️ The exact moment HURRICANE launched RIPSAW sky-high! Which bot are you backing? 👇\n#RobotCombat #BattleBots #RobotWars",
+      "ready": true
     },
     {
-      "caption": "The mandibles LOCK ON! \ud83d\ude31 Which machine survives this grip?! \ud83e\udd16 #RobotCombat #BattleBots #RobotWars",
-      "file": "content/media/rc-2026-10-06-i1.jpg",
-      "ready": true,
-      "type": "image"
-    },
-    {
-      "caption": "Claw or Ram? \ud83d\udfe2 MANDIBLE's crushing jaws vs \ud83d\udfe4 SIEGEBREAKER's battering ram \u2014 WHO WINS? Drop your pick below! \ud83d\udc47 #RobotCombat #BattleBots #RobotWars",
+      "type": "text",
       "file": "",
-      "ready": true,
-      "type": "text"
+      "caption": "Flippers or Spinners — which weapon DOMINATES the arena? 🔴 Spinner gang or 🔵 Flipper gang — comment below! 👇\n#RobotCombat #BattleBots #RobotWars",
+      "ready": true
     },
     {
-      "caption": "CYCLONE-9 vs ANVIL! \ud83d\udfe3\ud83d\udd28 The spinning shell gets STOPPED COLD... then comes the comeback! \ud83e\udd16\u26a1 #RobotCombat #BattleBots #RobotWars",
-      "file": "content/media/rc-2026-10-06-v2.mp4",
-      "ready": true,
-      "type": "video"
+      "type": "image",
+      "file": "content/media/rc-2026-10-07-i2.jpg",
+      "caption": "THE AXE HAS SPOKEN! 🔨 Sparks flew when JUDGEMENT brought the axe down on BULWARK!\n#RobotCombat #BattleBots #RobotWars",
+      "ready": true
     },
     {
-      "caption": "The hammer comes DOWN on the spinning shell! \ud83d\udca5\ud83d\udc9c Total chaos in the arena! \ud83e\udd16 #RobotCombat #BattleBots #RobotWars",
-      "file": "content/media/rc-2026-10-06-i2.jpg",
-      "ready": true,
-      "type": "image"
-    },
-    {
-      "caption": "Full-body spinners \u2014 GENIUS or GIMMICK? \ud83c\udf00 The purple CYCLONE-9 shell vs the red hammer of ANVIL \u2014 who takes the arena? Comment! \ud83d\udc47 #RobotCombat #BattleBots #RobotWars",
+      "type": "text",
       "file": "",
-      "ready": true,
-      "type": "text"
+      "caption": "An axe that CRUSHES vs a wedge that NEVER STOPS — who wins? 🔨⚔️ Drop your pick in the comments!\n#RobotCombat #BattleBots #RobotWars",
+      "ready": true
     },
     {
-      "caption": "FIRESWORD vs TYPHOON! \ud83d\udfe0\ud83d\udd35 Saw meets spinning disc \u2014 sparks, a SHATTERED tooth, and a LAUNCH you won't believe! \ud83e\udd16\u26a1 #RobotCombat #BattleBots #RobotWars",
-      "file": "content/media/rc-2026-10-06-v3.mp4",
-      "ready": true,
-      "type": "video"
+      "type": "image",
+      "file": "content/media/rc-2026-10-07-i3.jpg",
+      "caption": "STOPPED COLD! 🧊 ATLAS grabbed SCYTHE's spinning bar bare-handed! Genius or madness? 🤔\n#RobotCombat #BattleBots #RobotWars",
+      "ready": true
     },
     {
-      "caption": "SAW vs DISC! \u2699\ufe0f\ud83d\udca5 Metal SHATTERS in this one! \ud83e\udd16 #RobotCombat #BattleBots #RobotWars",
-      "file": "content/media/rc-2026-10-06-i3.jpg",
-      "ready": true,
-      "type": "image"
-    },
-    {
-      "caption": "Which weapon do YOU fear most? \u2699\ufe0f FIRESWORD's screaming saw or TYPHOON's spinning disc? Sound off below! \ud83d\udc47 #RobotCombat #BattleBots #RobotWars",
+      "type": "text",
       "file": "",
-      "ready": true,
-      "type": "text"
-    },
-    {
-      "type": "video",
-      "file": "content/media/test-reel-01.mp4",
-      "caption": "THUNDER DRUM vs IRONCLAD! \ud83d\udfe1\u26ab Drum spinner meets the wedge \u2014 MASSIVE sparks, a wall pin, and a SHOCKING comeback! \ud83e\udd16\u26a1 #RobotCombat #BattleBots #RobotWars",
+      "caption": "What's the most INSANE moment you've ever seen in the arena? 🤯 Best answer gets pinned! 📌\n#RobotCombat #BattleBots #RobotWars",
       "ready": true
     }
   ]
