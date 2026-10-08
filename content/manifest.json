@@ -2,44 +2,38 @@
  "items": [
   {
    "type": "image",
-   "file": "content/media/rc-2026-10-07-i1.jpg",
-   "caption": "FLIPPED INTO ORBIT! 🛰️ The exact moment HURRICANE launched RIPSAW sky-high! Which bot are you backing? 👇\n#RobotCombat #BattleBots #RobotWars",
+   "file": "content/media/rc-2026-10-08-i1.jpg",
+   "caption": "BAR MEETS FORK! ⚡ The exact moment SCYTHE's neon bar slammed into ATLAS's lifter! Which machine are you backing? 👇\n#RobotCombat #BattleBots #RobotWars",
    "ready": true
   },
   {
    "type": "text",
    "file": "",
-   "caption": "Flippers or Spinners — which weapon DOMINATES the arena? 🔴 Spinner gang or 🔵 Flipper gang — comment below! 👇\n#RobotCombat #BattleBots #RobotWars",
+   "caption": "Spinning bar or lifting fork — which machine DOMINATES the durability test? 🟢 Bar gang or 🟠 Fork gang — comment your pick! 👇\n#RobotCombat #BattleBots #RobotWars",
    "ready": true
   },
   {
    "type": "image",
-   "file": "content/media/rc-2026-10-07-i2.jpg",
-   "caption": "THE AXE HAS SPOKEN! 🔨 Sparks flew when JUDGEMENT brought the axe down on BULWARK!\n#RobotCombat #BattleBots #RobotWars",
+   "file": "content/media/rc-2026-10-08-i2.jpg",
+   "caption": "SHREDDED! 🌀 AVALANCHE's drum tore straight through BASTION's armor! Could your bot survive that hit? 🤯\n#RobotCombat #BattleBots #RobotWars",
    "ready": true
   },
   {
    "type": "text",
    "file": "",
-   "caption": "An axe that CRUSHES vs a wedge that NEVER STOPS — who wins? 🔨⚔️ Drop your pick in the comments!\n#RobotCombat #BattleBots #RobotWars",
+   "caption": "A drum that SHREDS vs a ram that NEVER STOPS — who takes the arena? ⚪ Drum gang or 🟢 Ram gang — drop your winner below! 👇\n#RobotCombat #BattleBots #RobotWars",
    "ready": true
   },
   {
    "type": "image",
-   "file": "content/media/rc-2026-10-07-i3.jpg",
-   "caption": "STOPPED COLD! 🧊 ATLAS grabbed SCYTHE's spinning bar bare-handed! Genius or madness? 🤔\n#RobotCombat #BattleBots #RobotWars",
+   "file": "content/media/rc-2026-10-08-i3.jpg",
+   "caption": "THE SAW BITES DOWN! 🔥 CIRCUIT BREAKER carved straight into OBSIDIAN's wedge — sparks everywhere! ⚡\n#RobotCombat #BattleBots #RobotWars",
    "ready": true
   },
   {
    "type": "text",
    "file": "",
-   "caption": "What's the most INSANE moment you've ever seen in the arena? 🤯 Best answer gets pinned! 📌\n#RobotCombat #BattleBots #RobotWars",
-   "ready": true
-  },
-  {
-   "type": "video",
-   "file": "content/media/2026-10-07-judgement-bulwark.mp4",
-   "caption": "JUDGEMENT vs BULWARK! 🔥 The hammer came DOWN and the arena shook! Watch the full impact test! 👇\n#RobotCombat #BattleBots #RobotWars",
+   "caption": "What's the WILDEST machine-on-machine impact you've ever seen? 🤯 Best answer gets pinned! 📌\n#RobotCombat #BattleBots #RobotWars",
    "ready": true
   }
  ]
