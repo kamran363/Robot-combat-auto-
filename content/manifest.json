@@ -1,40 +1,94 @@
 {
- "items": [
-  {
-   "type": "image",
-   "file": "content/media/rc-2026-10-08-i1.jpg",
-   "caption": "BAR MEETS FORK! ⚡ The exact moment SCYTHE's neon bar slammed into ATLAS's lifter! Which machine are you backing? 👇\n#RobotCombat #BattleBots #RobotWars",
-   "ready": true
-  },
-  {
-   "type": "text",
-   "file": "",
-   "caption": "Spinning bar or lifting fork — which machine DOMINATES the durability test? 🟢 Bar gang or 🟠 Fork gang — comment your pick! 👇\n#RobotCombat #BattleBots #RobotWars",
-   "ready": true
-  },
-  {
-   "type": "image",
-   "file": "content/media/rc-2026-10-08-i2.jpg",
-   "caption": "SHREDDED! 🌀 AVALANCHE's drum tore straight through BASTION's armor! Could your bot survive that hit? 🤯\n#RobotCombat #BattleBots #RobotWars",
-   "ready": true
-  },
-  {
-   "type": "text",
-   "file": "",
-   "caption": "A drum that SHREDS vs a ram that NEVER STOPS — who takes the arena? ⚪ Drum gang or 🟢 Ram gang — drop your winner below! 👇\n#RobotCombat #BattleBots #RobotWars",
-   "ready": true
-  },
-  {
-   "type": "image",
-   "file": "content/media/rc-2026-10-08-i3.jpg",
-   "caption": "THE SAW BITES DOWN! 🔥 CIRCUIT BREAKER carved straight into OBSIDIAN's wedge — sparks everywhere! ⚡\n#RobotCombat #BattleBots #RobotWars",
-   "ready": true
-  },
-  {
-   "type": "text",
-   "file": "",
-   "caption": "What's the WILDEST machine-on-machine impact you've ever seen? 🤯 Best answer gets pinned! 📌\n#RobotCombat #BattleBots #RobotWars",
-   "ready": true
-  }
- ]
+  "items": [
+    {
+      "type": "image",
+      "file": "content/media/rc-2026-10-08-i1.jpg",
+      "caption": "BAR MEETS FORK! ⚡ The exact moment SCYTHE's neon bar slammed into ATLAS's lifter! Which machine are you backing? 👇\n#RobotCombat #BattleBots #RobotWars",
+      "ready": true
+    },
+    {
+      "type": "text",
+      "file": "",
+      "caption": "Spinning bar or lifting fork — which machine DOMINATES the durability test? 🟢 Bar gang or 🟠 Fork gang — comment your pick! 👇\n#RobotCombat #BattleBots #RobotWars",
+      "ready": true
+    },
+    {
+      "type": "image",
+      "file": "content/media/rc-2026-10-08-i2.jpg",
+      "caption": "SHREDDED! 🌀 AVALANCHE's drum tore straight through BASTION's armor! Could your bot survive that hit? 🤯\n#RobotCombat #BattleBots #RobotWars",
+      "ready": true
+    },
+    {
+      "type": "text",
+      "file": "",
+      "caption": "A drum that SHREDS vs a ram that NEVER STOPS — who takes the arena? ⚪ Drum gang or 🟢 Ram gang — drop your winner below! 👇\n#RobotCombat #BattleBots #RobotWars",
+      "ready": true
+    },
+    {
+      "type": "image",
+      "file": "content/media/rc-2026-10-08-i3.jpg",
+      "caption": "THE SAW BITES DOWN! 🔥 CIRCUIT BREAKER carved straight into OBSIDIAN's wedge — sparks everywhere! ⚡\n#RobotCombat #BattleBots #RobotWars",
+      "ready": true
+    },
+    {
+      "type": "text",
+      "file": "",
+      "caption": "What's the WILDEST machine-on-machine impact you've ever seen? 🤯 Best answer gets pinned! 📌\n#RobotCombat #BattleBots #RobotWars",
+      "ready": true
+    },
+    {
+      "type": "image",
+      "file": "content/media/rc-2026-10-09-i1.jpg",
+      "ready": true,
+      "caption": "SHELL SHOCK! 💥 TITANFALL's spinning shell just TORE into IRONCLAD — look at that spark shower! ⚡\n#RobotCombat #BattleBots #RobotWars"
+    },
+    {
+      "type": "text",
+      "file": "",
+      "ready": true,
+      "caption": "Full-body spinner or armored wedge — which machine DOMINATES the durability test? 🔴 Spinner gang or ⚫ Wedge gang — comment your pick! 👇\n#RobotCombat #BattleBots #RobotWars"
+    },
+    {
+      "type": "image",
+      "file": "content/media/rc-2026-10-09-i2.jpg",
+      "ready": true,
+      "caption": "HAMMER DOWN! 🔨 MAULER's overhead slam meets VORTEX's spinning drum — which machine walks out of this one?! 🤯\n#RobotCombat #BattleBots #RobotWars"
+    },
+    {
+      "type": "text",
+      "file": "",
+      "ready": true,
+      "caption": "Overhead hammer vs spinning drum — ONE hit decides it! 🔨 Hammer gang or 🌀 Drum gang — who's your winner? 👇\n#RobotCombat #BattleBots #RobotWars"
+    },
+    {
+      "type": "image",
+      "file": "content/media/rc-2026-10-09-i3.jpg",
+      "ready": true,
+      "caption": "LOCKED IN! 🔒 GRIZZLY's lifter has NIGHTMARE's claw in a death grip — who breaks free first? 👇\n#RobotCombat #BattleBots #RobotWars"
+    },
+    {
+      "type": "text",
+      "file": "",
+      "ready": true,
+      "caption": "Lifter or claw — which grabber gets the job done? 🟠 Lifter gang or 🟣 Claw gang — drop your winner below! 👇\n#RobotCombat #BattleBots #RobotWars"
+    },
+    {
+      "type": "text",
+      "file": "",
+      "ready": true,
+      "caption": "Saw blade or hammer head — which striker hits HARDER? 🟠 Saw gang or 🔴 Hammer gang — sound off below! 👇\n#RobotCombat #BattleBots #RobotWars"
+    },
+    {
+      "type": "text",
+      "file": "",
+      "ready": true,
+      "caption": "Claw crusher vs spinning drum — grapple or grind? 🟣 Claw gang or ⚪ Drum gang — pick your machine! 👇\n#RobotCombat #BattleBots #RobotWars"
+    },
+    {
+      "type": "text",
+      "file": "",
+      "ready": true,
+      "caption": "What's the greatest comeback you've ever seen in the arena? 🔄 Best story gets pinned! 📌\n#RobotCombat #BattleBots #RobotWars"
+    }
+  ]
 }
