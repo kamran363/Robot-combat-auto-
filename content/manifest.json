@@ -7,6 +7,60 @@
       "ready": true
     },
     {
+      "type": "image",
+      "file": "content/media/rc-2026-10-10-i1.jpg",
+      "ready": true,
+      "caption": "HAMMER MEETS FLIPPER! 🔨 SLEDGE brings the overhead pain down on SKYHOOK — look at that spark explosion! Who walks out of this one? 👇\n#RobotCombat #BattleBots #RobotWars"
+    },
+    {
+      "type": "text",
+      "file": "",
+      "ready": true,
+      "caption": "Overhead hammer or flipping arm — which weapon ends a fight FASTER? 🔨 Hammer gang or 🟧 Flipper gang — drop your pick! 👇\n#RobotCombat #BattleBots #RobotWars"
+    },
+    {
+      "type": "video",
+      "file": "content/media/rc-2026-10-10-v1.mp4",
+      "ready": true,
+      "caption": "HURRICANE vs RIPSAW! 🌪️ The teal terror meets the spinning saw — sparks EVERYWHERE! Who walks out of the arena? 👇\n#RobotCombat #BattleBots #RobotWars"
+    },
+    {
+      "type": "image",
+      "file": "content/media/rc-2026-10-10-i2.jpg",
+      "ready": true,
+      "caption": "DISC vs FORK! 🌀 TEMPEST's spinning disc shreds straight into BEDROCK's lifting forks — could your bot survive that hit? 👇\n#RobotCombat #BattleBots #RobotWars"
+    },
+    {
+      "type": "text",
+      "file": "",
+      "ready": true,
+      "caption": "Spinning disc vs lifting forks — which machine DOMINATES the arena? 🌀 Disc gang or 🍴 Fork gang — comment your winner! 👇\n#RobotCombat #BattleBots #RobotWars"
+    },
+    {
+      "type": "video",
+      "file": "content/media/rc-2026-10-10-v2.mp4",
+      "ready": true,
+      "caption": "VIPER vs MAULER! 🐍 The red bar-spinner goes track-to-track with the MAULER — that impact shook the whole arena! 🔊\n#RobotCombat #BattleBots #RobotWars"
+    },
+    {
+      "type": "image",
+      "file": "content/media/rc-2026-10-10-i3.jpg",
+      "ready": true,
+      "caption": "CLAW vs SHELL! 🦾 REAPER clamps down on CYCLONE's spinning shell — who breaks first? 👇\n#RobotCombat #BattleBots #RobotWars"
+    },
+    {
+      "type": "text",
+      "file": "",
+      "ready": true,
+      "caption": "Crusher claw vs full-body spinner — grapple or grind? 🦾 Claw gang or 🌀 Shell gang — which one takes the arena? 👇\n#RobotCombat #BattleBots #RobotWars"
+    },
+    {
+      "type": "text",
+      "file": "",
+      "ready": true,
+      "caption": "If YOU built a combat robot, what weapon would it carry? 🔨🌀🍴 Describe your dream machine below! 👇\n#RobotCombat #BattleBots #RobotWars"
+    },
+    {
       "type": "text",
       "file": "",
       "caption": "Spinning bar or lifting fork — which machine DOMINATES the durability test? 🟢 Bar gang or 🟠 Fork gang — comment your pick! 👇\n#RobotCombat #BattleBots #RobotWars",
